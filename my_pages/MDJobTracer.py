@@ -5,8 +5,8 @@ import pyodbc
 from datetime import datetime, timedelta
 
 def show():
-    st.title("📊 MDJobTracer Steps")
-    st.write("This is the Load Schedule Steps monitoring section.")
+   
+    
 
     # Database connection
     def get_connection():
