@@ -84,15 +84,17 @@ streamlit run main.py
 ---
 
 ## 🖼 Screenshots
+1. •	File Arrival Analysis – Shows the timing and volume of incoming data files. 
 
-*Add screenshots here*
+<img width="868" height="377" alt="image" src="https://github.com/user-attachments/assets/a313861c-e4f7-4078-815d-500c807ad9c9" />
 
-Example:
+2.•	Job Count Over Time – Displays daily job execution trends. 
 
-```
-![Home Dashboard](docs/screens/home.png)
-![Load Stats](docs/screens/load-stats.png)
-```
+<img width="872" height="376" alt="image" src="https://github.com/user-attachments/assets/fb3a8e17-eb2a-49c2-9096-0ecb92582637" />
+
+3.•	Hourly Job Distribution – Illustrates peak hours of job activity to optimize scheduling. 
+
+<img width="879" height="374" alt="image" src="https://github.com/user-attachments/assets/c3b453b9-20a7-41eb-85c2-bc8982c8f359" />
 
 ---
 
