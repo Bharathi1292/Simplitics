@@ -1,4 +1,4 @@
-# Simplitics LIA Project Dashboard
+# Simplitics LIA Dashboard
 
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
